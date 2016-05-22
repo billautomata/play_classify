@@ -1,0 +1,18 @@
+{
+  "name": "play_classifier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.0.0-rc.5",
+    "moment": "^2.13.0",
+    "mongojs": "^2.4.0",
+    "natural": "^0.4.0",
+    "uuid": "^2.0.2"
+  }
+}
